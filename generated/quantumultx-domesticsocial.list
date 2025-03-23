@@ -2,7 +2,7 @@
 # anti-ip-attribution quantumultx.list v0.3.1 24db48a4973b31d718703136cfcc2b3621171f36
 # https://github.com/SunsetMkt/anti-ip-attribution
 # QuantumultX分流规则
-DOMAIN,httpdns.bilivideo.com,REJECT
+# DOMAIN,httpdns.bilivideo.com,REJECT
 IP-CIDR,47.101.175.206/32,REJECT
 IP-CIDR,47.100.123.169/32,REJECT
 IP-CIDR,120.46.169.234/32,REJECT
@@ -19,11 +19,11 @@ IP-CIDR,114.116.215.110/32,REJECT
 IP-CIDR,116.63.10.31/32,REJECT
 IP-CIDR,112.64.218.119/32,REJECT
 IP-CIDR,112.65.200.117/32,REJECT
-DOMAIN-SUFFIX,biliapi.net,IP
-DOMAIN-SUFFIX,biliapi.com,IP
-DOMAIN-SUFFIX,bilibili.com,IP
-IP-CIDR,203.107.1.0/24,IP
-DOMAIN-SUFFIX,bilivideo.com,DIRECT
+# DOMAIN-SUFFIX,biliapi.net,IP
+# DOMAIN-SUFFIX,biliapi.com,IP
+# DOMAIN-SUFFIX,bilibili.com,IP
+# IP-CIDR,203.107.1.0/24,IP
+# DOMAIN-SUFFIX,bilivideo.com,DIRECT
 DOMAIN-SUFFIX,akamaized.net,DIRECT
 DOMAIN-SUFFIX,hdslb.com,DIRECT
 DOMAIN-SUFFIX,szbdyd.com,DIRECT
@@ -47,10 +47,10 @@ DOMAIN,httpsdns.baidu.com,IP
 DOMAIN,c.tieba.baidu.com,IP
 DOMAIN,httpdns.baidu.com,IP
 DOMAIN,httpdns.baidubce.com,IP
-DOMAIN,szshort.weixin.qq.com,IP
-DOMAIN,szextshort.weixin.qq.com,IP
-DOMAIN,szminorshort.weixin.qq.com,IP
-DOMAIN,mp.weixin.qq.com,IP
+# DOMAIN,szshort.weixin.qq.com,IP
+# DOMAIN,szextshort.weixin.qq.com,IP
+# DOMAIN,szminorshort.weixin.qq.com,IP
+# DOMAIN,mp.weixin.qq.com,IP
 DOMAIN-SUFFIX,zhihu.com,IP
 IP-CIDR,103.41.167.0/24,IP
 IP-CIDR,118.89.204.198/23,REJECT
