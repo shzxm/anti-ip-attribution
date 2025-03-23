@@ -225,6 +225,12 @@ DOMAIN-SUFFIX,soulapp.cn,IP
 DOMAIN,druidv6.if.qidian.com,IP
 DOMAIN,ptlogin6.qidian.com,IP
 DOMAIN,api.wmpvp.com,IP
-DOMAIN-SUFFIX,finka.cn,ip
-DOMAIN-SUFFIX,finkapp.cn,ipx
-DOMAIN-SUFFIX,amemv.com,ip
+DOMAIN-SUFFIX,finka.cn,IP
+DOMAIN-SUFFIX,finkapp.cn,IP
+DOMAIN-SUFFIX,adwangmai.com,IP
+DOMAIN-SUFFIX,66mobi.com,IP
+DOMAIN-SUFFIX,baidu.com,IP
+DOMAIN-SUFFIX,kuaishou.com,IP
+DOMAIN-SUFFIX,volces.com,IP
+DOMAIN-SUFFIX,adukwai.com,IP
+DOMAIN-SUFFIX,amemv.com,IP
